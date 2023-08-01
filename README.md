@@ -1,2 +1,1 @@
-# wadisp
-wadispatcher
+WA-DISPATCHER
